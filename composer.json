@@ -1,0 +1,12 @@
+{
+    "name": "meisen1983/composer-test",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "meisen",
+            "email": "121115353@qq.com"
+        }
+    ],
+    "require": {}
+}
