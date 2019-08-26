@@ -8,5 +8,10 @@
             "email": "121115353@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Meisen\\": "src/"
+        }
+    }
 }
