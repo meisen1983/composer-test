@@ -2,7 +2,7 @@
 
 namespace Meisen;
 
-class Index
+class Test
 {
 	public function index()
 	{
